@@ -1,21 +1,15 @@
 <!-- file is written in markdown format -->
 
 ```
-Assignment-1
-
-Name : Swayam Agrawal
-Roll : 2021101068
-Branch : CSE
-Course : Operating Systems and Networking , Monsoon'22
-
 OS:Linux
+Demonstrating the usage of system calls to perform tasks involving large processing like reversing a large file in gigabytes along with parameters given etc.
 ```
 
 # ***Part 1 :***
 
 
 ```
-$ gcc q1.c
+$ gcc Demonstration_1.c
 $ ./a.out <path_to_input_file/input.txt>
 $ cd Assignment
 
@@ -28,7 +22,7 @@ Access the 1_input.txt
 # ***Part 2:***
 
 ``` 
-$ gcc q2.c
+$ gcc Demonstration_2.c
 $ ./a.out <path_to_input_file/input.txt> <starting_index> <end_index>
 $ cd Assignment
 
@@ -47,7 +41,7 @@ Access the 2_input.txt
 # ***Part 3:***
 
 ``` 
-$ gcc q3.c
+$ gcc Demonstration_3.c
 $ ./a.out <path_to_input_file1> <path_to_file2> <path_to_directory>
 
 Everything printed on the terminal
